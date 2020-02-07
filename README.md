@@ -3,14 +3,21 @@ Attendance and Payroll System using PHP
 Demo: https://www.youtube.com/watch?v=rvOl3UskulY&t=241s
 
 Feature
-#-Real Time Counts Dashboard
-#-Checking of Attendance (Time-In, Time-Out)
-#-Adding of Employee Details
-#-Adding of Employee Available Positions
-#-Adding of Employee Available Schedules
-#-Changing Employee Schedule
-#-Printing of DTR (Daily Time Record for specified dates)
-#-Printing of Payslip (For specified Dates)
+-Real Time Counts Dashboard
+
+-Checking of Attendance (Time-In, Time-Out)
+
+-Adding of Employee Details
+
+-Adding of Employee Available Positions
+
+-Adding of Employee Available Schedules
+
+-Changing Employee Schedule
+
+-Printing of DTR (Daily Time Record for specified dates)
+
+-Printing of Payslip (For specified Dates)
 
 Note: The Database Name is located inside the "Database" folder feel free to modify the database name you like.
 
