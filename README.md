@@ -3,6 +3,7 @@ Attendance and Payroll System using PHP
 Demo: https://www.youtube.com/watch?v=rvOl3UskulY&t=241s
 
 Feature
+
 -Real Time Counts Dashboard
 
 -Checking of Attendance (Time-In, Time-Out)
